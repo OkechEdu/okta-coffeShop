@@ -1,0 +1,5 @@
+# security vulnerability file
+.dccache
+
+### VS Code ###
+.vscode/
